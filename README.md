@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Nic Dalmasso and I am a PhD student in the Statistics & Data Science department at Carnegie Mellon university. I work in statistical machine learning methodologies for uncertainty quantification. The questions I try to solve are usually motivated by problem in the physical sciences; our research group at CMU ((STAMPS)[http://stat.cmu.edu/stamps/]) is pretty active in this area! I strive to have a public repository for each of my projects.
+
+- 💬 If you are interested in any of the code, feel free to fork and start playing with it!
+- 📫 You can reach me at `ndalmass AT stat DOT cmu DOT edu` -- I am also Mr8ND on Twitter
+- 😄 Pronouns: He/His
