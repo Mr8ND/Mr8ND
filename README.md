@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Nic Dalmasso, and I am a senior AI Researcher at JPMorgan AI Research in New York! Right before that I was a PhD student in the Statistics & Data Science department at Carnegie Mellon university, where I worked in statistical machine learning methodologies for uncertainty quantification.
+I am Nic Dalmasso, and I am a senior AI Researcher at JPMorgan AI Research in New York! Right before that I was a PhD student in the Statistics & Data Science department at Carnegie Mellon University, where I worked in statistical machine learning methodologies for uncertainty quantification.
 
 - 💬 If you are interested in any of the code, feel free to fork and start playing with it!
 - 📫 You can reach me on Twitter ([Mr8ND](https://twitter.com/Mr8ND)) or on LinkedIn ([Nic Dalmasso](https://www.linkedin.com/in/nicdalmasso/?locale=en_US))
